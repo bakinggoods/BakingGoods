@@ -1,0 +1,105 @@
+body{
+    background-color: #fff;
+    background-image: url(./pimages/s1.png), url(./pimages/s2.png), url(./pimages/s3.png), url(./pimages/s4.png);
+    background-position: left -1% top -15%, right -7.5% top -1%, left -5% bottom -5%, right -6% bottom -1%;
+    background-repeat: no-repeat, no-repeat, no-repeat, no-repeat;
+    background-size: 15%, 15%, 15%, 15%;
+    overflow: auto;
+    min-height: 100vh;
+    font-family: sans-serif;
+}
+.whol{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 3em;
+    padding-bottom: 3em;
+
+}
+.round{
+    width: 450px;
+    height: 450px;
+    background-color: rgb(228, 118, 173);
+    margin-top: 40px;
+    border-radius: 5%;
+    text-align: center;
+}
+.first, .first2{
+    position: relative;
+    margin-bottom: 2rem;
+    display: flex;
+    flex-direction: column;
+    margin: 0 40px;
+}
+.first1{
+    font-size: .75rem;
+    color: #4a5568;
+    margin-bottom: 0.25rem;
+    line-height: 2;
+    font-weight: 700;
+    text-align: center;
+}
+.head1{
+    font-size: 1.5rem; 
+    color: #fff; 
+    margin-top: 50px; 
+    margin-bottom: 5px; 
+    font-weight: 700;
+}
+.first2{
+    margin-top: 2em;
+}
+.head2{
+    font-size: .875rem; 
+    color: #4a5568; 
+    margin-top: 0px;
+}
+
+.f1{
+    background-color:#ced0d3 ; 
+    border: #fff; 
+    height: 4em;
+}
+.f2{
+    background-color:#ced0d3 ; 
+    border: #fff; 
+    height: 4em;
+}
+.spit{
+    display: flex;
+    flex-direction: row;
+    width: 80%;
+    border: #fff;
+    white-space: nowrap;
+    text-transform: uppercase;
+    color: #fff;
+    text-align: center;
+    padding-top: 1rem;
+    padding-left: 2.5rem;
+    padding-right: 2.5rem;
+    padding-bottom: 0.75rem;
+    margin: 2rem 40px;
+    font-weight: 700;
+    justify-content: center;
+    align-items: center;
+    border-radius: 0.5rem;
+    background-color: #fff;
+    height: 4em;
+}
+.rig{
+    color: rgb(255, 255, 255);
+    border-color: rgb(255, 255, 255);
+    font-size: .875rem;
+    display: flex;
+    flex-direction: row;
+    white-space: nowrap;
+    text-align: center;
+    padding-top: 0.25rem;
+    padding-bottom: 0.25rem;
+    padding-left: 1.25rem;
+    padding-right: 1.25rem;
+    margin-top: 2rem;
+    font-weight: 400;
+    justify-content: center;
+    text-decoration: none;
+}
