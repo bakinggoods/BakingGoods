@@ -1,10 +1,14 @@
 # BakingGoods
 
 ## color palette
-1. [ ] the primary color is rgb(250, 175, 186) i,e is color of other different things like nav,some btns
+1. [ ] the primary color is rgb(250, 175, 186) i,e is color of other different things like some btns
 2. [ ] the secondary color will be rgb(253, 244, 244) i.e color of the background  
 3. [ ] the tertiary color is rgba(254, 255, 224, 0.788) i.e color of different other things
 4. [ ] the text color is like a very dark grey 
+
+## navbar
+1. [ ] the navbar will be below not above above on mobile phones but the search button will be on top kinda like linkedIn
+2. [ ] the navbar will be above from tablet and above and then the search input will be amongst the nave
 
 
 ## pages
@@ -18,9 +22,9 @@ users that have  not logged in will be able to access only
 
 pages that the logged in user can access
 1. [ ] the first page is the home page / access to feeds page which is the user can see different posts
-2.  [ ] search page
-3. [ ] add friends page 
-4. [ ] create post page
+2.  [ ] chat page
+3. [ ]  create post page
+4. [ ] search page
 5. [ ] settings page
  Note only users that have signed up can access this pages
 
