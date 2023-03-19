@@ -6,7 +6,7 @@
 3. [ ] the tertiary color is rgba(254, 255, 224, 0.788) i.e color of different other things
 4. [ ] the text color is like a very dark grey 
  
-dark mode color will be just a rgb(33, 34, 38) which is a light black,grey and a lighter gray for texts
+dark mode color will be just a rgb(33, 34, 38) which is a light black,the primary and different shades of gray
 and the dark mode will be stored  in the backend so if the re-log in they will be on the mode they choose
 
 ## navbar
