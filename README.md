@@ -5,6 +5,9 @@
 2. [ ] the secondary color will be rgb(253, 244, 244) i.e color of the background  
 3. [ ] the tertiary color is rgba(254, 255, 224, 0.788) i.e color of different other things
 4. [ ] the text color is like a very dark grey 
+ 
+dark mode color will be just a rgb(33, 34, 38) which is a light black,grey and a lighter gray for texts
+and the dark mode will be stored  in the backend so if the re-log in they will be on the mode they choose
 
 ## navbar
 1. [ ] the navbar will be below not above above on mobile phones but the search button will be on top kinda like linkedIn
